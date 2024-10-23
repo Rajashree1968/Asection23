@@ -2,7 +2,6 @@ Hi! Good morning students
 Hi! Good morning staff members
 <<<<<<< HEAD
 Hi! Good evening staff members
-=======
 Hi! Good morning staff members
 
 >>>>>>> main
