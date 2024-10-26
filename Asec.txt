@@ -1,9 +1,5 @@
 Hi! Good morning students
-Hi! Good morning staff members
-<<<<<<< HEAD
-Hi! Good morning staff members
-=======
-Hi! Good morning staff members
+Hi! Good morning male staff members
+Hi! Good afternoon female staff members
 
->>>>>>> main
-
+ 

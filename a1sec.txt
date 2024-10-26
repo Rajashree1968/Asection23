@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Good morning
 Good evening
 good night
+=======
+Good morning
+>>>>>>> f7e9088 (v1)
